@@ -142,7 +142,7 @@ const IndexPage = () => {
   return (
     <main style={pageStyles}>
       <title>Calcifer</title>
-      <h1 style={headingStyles}>Calcier</h1>
+      <h1 style={headingStyles}>Calcifer</h1>
     </main>
   )
 }
